@@ -1,2 +1,2 @@
-# CTRL+1=FN
+# CTRL+SHIFT=FN
 Fix FN Button
